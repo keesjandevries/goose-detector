@@ -1,0 +1,5 @@
+# This folder is intende for images
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
